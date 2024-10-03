@@ -144,3 +144,14 @@ textarea#outputTextEncrypt, textarea#outputTextDecrypt {
 ::placeholder {
     color: #888;
 }
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.header-icon {
+    width: 80px; /* Boyutu istediğiniz gibi değiştirebilirsiniz */
+    height: auto;
+    margin-bottom: 15px;
+}
