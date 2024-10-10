@@ -67,10 +67,12 @@ The encryption and decryption processes are done using **CryptoJS**, a powerful 
 ## 🖼️ Screenshots
 
 ### Encryption Page
-![Encryption](https://example.com/encryption_screenshot.png)
+![image](https://github.com/user-attachments/assets/021305d5-5553-4535-b104-8d09b0fb6aee)
+
 
 ### Decryption Page
-![Decryption](https://example.com/decryption_screenshot.png)
+![image](https://github.com/user-attachments/assets/cd170e45-eef8-4f49-bc71-859c20ecc60b)
+
 
 ## 👨‍💻 Technologies Used
 
