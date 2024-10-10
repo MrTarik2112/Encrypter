@@ -27,6 +27,7 @@ function openTab(evt, tabName) {
 // Sayfa yüklendiğinde varsayılan olarak ilk sekmeyi aç
 document.getElementById("defaultOpen").click();
 
+// Şifreleme fonksiyonu
 function encrypt() {
     var inputText = document.getElementById("inputTextEncrypt").value;
     var key1 = document.getElementById("key1Encrypt").value;
@@ -39,6 +40,7 @@ function encrypt() {
     document.getElementById("outputTextEncrypt").value = aesEncrypted2;
 }
 
+// Şifre çözme fonksiyonu
 function decrypt() {
     var encryptedText = document.getElementById("inputTextDecrypt").value;
     var key1 = document.getElementById("key1Decrypt").value;
